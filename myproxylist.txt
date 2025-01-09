@@ -2,3 +2,5 @@ vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067?type=ws&host=Mg
 vless://eafc111d-4a4b-4dc8-a26e-3ec97899db00@5.75.202.97:19211?type=tcp&security=none#%F0%9F%94%92VL-TCP-NONE%F0%9F%87%A9%F0%9F%87%AADE-5.75.202.97:19211
 vless://b2705a86-7b78-4f59-9205-3a16062b8018@5.34.198.145:45908?type=tcp&headerType=http&host=m-net.speedtestcustom.com&security=tls&fp=chrome&sni=tunnel-pro.yoooka.lol&alpn=h3,h2,http/1.1#%F0%9F%94%92VL-TCP-TLS%F0%9F%87%AE%F0%9F%87%B7IR-5.34.198.145:45908
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&path=/&security=none#%F0%9F%94%92VL-WS-NONE%F0%9F%87%AE%F0%9F%87%B7IR-2.189.104.10:52418
+vless://035ce4e2-b793-418a-838b-3508df309930@c1.vact.ir:2083?type=grpc&mode=gun&security=reality&fp=randomized&sni=refersion.com&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc#%F0%9F%94%9246@oneclickvpnkeys
+vless://035ce4e2-b793-418a-838b-3508df309930@5.75.128.216:2083?type=grpc&mode=gun&security=reality&fp=randomized&sni=refersion.com&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc#@Hope_Net-join-us-on-Telegram%60
